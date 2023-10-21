@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 
@@ -6,10 +5,35 @@
   <title># alkozp's blog</title>
   <link>https://alkozp.github.io/blog/</link>
   <description>crazy blog</description>
+
   <item>
-    <title>RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>New RSS tutorial on W3Schools</description>
+    <title>The First Rule of ARIA: Don’t use ARIA</title>
+    <link>https://alkozp.github.io/blog/post_201023_001.html</link>
+    <description>The First Rule of ARIA</description>
+  </item>
+
+  <item>
+    <title>The 2nd Rule of ARIA: Don’t Change Native Semantics</title>
+    <link>https://alkozp.github.io/blog/post_201023_002.html</link>
+    <description>The 2nd Rule of ARIA</description>
+  </item>
+
+  <item>
+    <title>The Third Rule of ARIA: All Interactive ARIA Roles Need To Be Operable By Keyboard</title>
+    <link>https://alkozp.github.io/blog/post_201023_003.html</link>
+    <description>The Third Rule of ARIA</description>
+  </item>
+
+  <item>
+    <title>The Fourth Rule of ARIA: Don’t use role=“presentation” or aria-hidden=“true” on visible focusable elements</title>
+    <link>https://alkozp.github.io/blog/post_201023_004.html</link>
+    <description>The Fourth Rule of ARIA</description>
+  </item>
+
+  <item>
+    <title>The Fifth Rule of ARIA: all interactive elements must have an accessible name</title>
+    <link>https://alkozp.github.io/blog/post_201023_005.html</link>
+    <description>The Fifth Rule of ARIA</description>
   </item>
 </channel>
 
